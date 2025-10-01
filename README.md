@@ -12,7 +12,7 @@
 
 ### 👨‍💻 Current Role
 <p align="left">
-  <a href="https://www.amazon.jobs/en/" target="_blank">
+  <a>
     <img src="https://upload.wikimedia.org/wikipedia/commons/3/32/Amazon_logo_white.svg](https://www.cleanpng.com/png-amazon-logo-amazon-logo-black-circle-white-eagle-s-7964459/)" alt="Amazon" width="50" height="50"/>
   </a>
   &nbsp;&nbsp;Working at <b>Amazon (WFH)</b><br>
