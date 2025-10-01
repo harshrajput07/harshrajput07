@@ -8,17 +8,18 @@
 </p>
 
 <p align="left">
-  <a href="https://x.com/Harshcode_" target="_blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="Twitter" /></a>
+  <a href="https://x.com/Harshcode_" target="_blank">X / Twitter</a>
+  &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/harshcode" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
 </p>
 
 ---
 
 ### 👨‍💻 Current Role
-<a href="https://www.amazon.jobs/en/" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/32/Amazon_logo_white.svg" alt="Amazon" width="50" height="50"/>
-</a>
-
+<p align="left">
+  <a href="https://www.amazon.jobs/en/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Amazon_logo.svg" alt="Amazon" width="50" height="50"/>
+  </a>
   &nbsp;&nbsp;Working at <b>Amazon (WFH)</b><br>
   Focused on building skills in <b>Data Analytics / Data Science</b>
 </p>
@@ -29,12 +30,9 @@
 <p align="left">
   <a href="https://www.python.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>
   <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/></a>
-  <a href="https://excel.microsoft.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Microsoft_Excel_2013_logo.svg" alt="Excel" width="40" height="40"/></a>
+  <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Microsoft_Excel_2019_logo.svg" alt="Excel" width="40" height="40"/></a>
   <a href="https://git-scm.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/></a>
- <a href="https://github.com/" target="_blank">
-  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark-Light-64px.png" alt="GitHub" width="40" height="40"/>
-</a>
-
+  <a href="https://github.com/" target="_blank"><img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark-Light-64px.png" alt="GitHub" width="40" height="40"/></a>
 </p>
 
 ---
