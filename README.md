@@ -43,9 +43,16 @@
   <a href="https://numpy.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40"/></a>
   <a href="https://www.sql.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="SQL" width="40" height="40"/></a>
   <a href="https://matplotlib.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" width="40" height="40"/></a>
-  <a href="https://seaborn.pydata.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/seaborn/seaborn-original.svg" alt="Seaborn" width="40" height="40"/></a>
-  <a href="https://www.tableau.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tableau/tableau-original.svg" alt="Tableau" width="40" height="40"/></a>
-  <a href="https://scikit-learn.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikit-learn/scikit-learn-original.svg" alt="scikit-learn" width="40" height="40"/></a>
+  <a href="https://seaborn.pydata.org/" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Seaborn_logo.png" alt="Seaborn" width="40" height="40"/>
+</a>
+<a href="https://www.tableau.com/" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Tableau_Logo.png" alt="Tableau" width="40" height="40"/>
+</a>
+<a href="https://scikit-learn.org/" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="40" height="40"/>
+</a>
+
 </p>
 
 ---
