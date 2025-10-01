@@ -12,8 +12,8 @@
 
 ### 👨‍💻 Current Role
 <p align="left">
-  <a>
-    <img src="https://www.cleanpng.com/png-amazon-logo-amazon-logo-black-circle-white-eagle-s-7964459/" alt="Amazon" width="50" height="50"/>
+  <a href="https://www.amazon.jobs/en/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Amazon_logo.svg" alt="Amazon" width="50" height="50"/>
   </a>
   &nbsp;&nbsp;Working at <b>Amazon (WFH)</b><br>
   Focused on building skills in <b>Data Analytics / Data Science</b>
