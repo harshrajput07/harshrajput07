@@ -15,7 +15,7 @@
   <a href="https://www.amazon.jobs/en/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Amazon_logo.svg" alt="Amazon" width="50" height="50"/>
   </a>
-  &nbsp;&nbsp;Working at <b>Amazon (WFH)</b><br>
+  &nbsp;&nbsp;Working at <b>Amazon (ML Data Associate)</b><br>
   Focused on building skills in <b>Data Analytics / Data Science</b>
 </p>
 
