@@ -8,7 +8,7 @@
 </p>
 
 <p align="left">
-  <a href="https://twitter.com/yourhandle" target="_blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="Twitter" /></a>
+  <a href="https://x.com/Harshcode_" target="_blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="Twitter" /></a>
   <a href="https://www.linkedin.com/in/harshcode" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
 </p>
 
