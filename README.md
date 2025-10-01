@@ -36,14 +36,12 @@
 
 ---
 
-## 🚀 Currently Learning:
-<p align="left">
-  <a href="https://pandas.pydata.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/></a>
-  <a href="https://seaborn.pydata.org/" target="_blank"><img src="https://raw.githubusercontent.com/mwaskom/seaborn-data/main/logo/seaborn-logo-light.svg" alt="Seaborn" width="40" height="40"/></a>
-  <a href="https://plotly.com/python/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/plotly/plotly-original.svg" alt="Plotly" width="40" height="40"/></a>
-  <a href="https://www.tableau.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/8/8f/Tableau_Logo.svg" alt="Tableau" width="40" height="40"/></a>
-  <a href="https://scikit-learn.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="40" height="40"/></a>
-</p>
+## 📚 Currently Learning (Text)
+- **Python Libraries:** Pandas, NumPy  
+- **Data Visualization:** Matplotlib, Seaborn, Plotly  
+- **Dashboard Tools:** Tableau / Power BI  
+- **Machine Learning Basics:** Scikit-learn  
+- **Advanced SQL:** Joins, Window Functions, CTEs  
 
 ---
 
