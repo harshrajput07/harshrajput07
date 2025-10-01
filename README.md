@@ -3,66 +3,23 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshrajput07&label=Profile%20views&color=0e75b6&style=flat" alt="harshrajput07" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harshrajput07" alt="harshrajput07" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/harshcode_" target="blank"><img src="https://img.shields.io/twitter/follow/harshcode_?logo=twitter&style=for-the-badge" alt="harshcode_" /></a> </p>
+
+- 💬 Ask me about **Data Cleaning & Transformation Exploratory Data Analysis (EDA) SQL Queries & Database Management GitHub workflows & version control**
+
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harshrajput07" alt="harshrajput07" /></a>
+<a href="https://twitter.com/harshcode_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="harshcode_" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/harshcode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harshcode" height="30" width="40" /></a>
 </p>
 
-<p align="left">
-  <a href="https://x.com/Harshcode_" target="_blank">X / Twitter</a>
-  &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/harshcode" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-</p>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
----
-
-### 👨‍💻 Current Role
-<p align="left">
-  <a href="https://www.amazon.jobs/en/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Amazon_logo.svg" alt="Amazon" width="50" height="50"/>
-  </a>
-  &nbsp;&nbsp;Working at <b>Amazon (WFH)</b><br>
-  Focused on building skills in <b>Data Analytics / Data Science</b>
-</p>
-
----
-
-### 💻 Skills Learned
-<p align="left">
-  <a href="https://www.python.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>
-  <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/></a>
-  <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Microsoft_Excel_2019_logo.svg" alt="Excel" width="40" height="40"/></a>
-  <a href="https://git-scm.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/></a>
-  <a href="https://github.com/" target="_blank"><img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark-Light-64px.png" alt="GitHub" width="40" height="40"/></a>
-</p>
-
----
-
-### 📚 Currently Learning
-- **Python Libraries:** Pandas, NumPy  
-- **Data Visualization:** Matplotlib, Seaborn, Plotly  
-- **Dashboard Tools:** Tableau / Power BI  
-- **Machine Learning Basics:** Scikit-learn  
-- **Advanced SQL:** Joins, window functions, CTEs  
-
----
-
-### 💬 Ask me about
-- Data Cleaning & Transformation  
-- Exploratory Data Analysis (EDA)  
-- SQL Queries & Database Management  
-- GitHub workflows & version control  
-
----
-
-### 📫 How to reach me
-- Email: 0harsh2003@gmail.com  
-- LinkedIn: [Harsh Rajput](https://www.linkedin.com/in/harshcode)  
-
----
-
-### 📊 GitHub Stats
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=harshrajput07&show_icons=true&locale=en&layout=compact" alt="harshrajput07" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harshrajput07&show_icons=true&locale=en" alt="harshrajput07" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harshrajput07" alt="harshrajput07" /></p>
 
-[![Holopin badges](https://holopin.me/harshrajput07)](https://holopin.io/@harshrajput07)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harshrajput07&show_icons=true&locale=en" alt="harshrajput07" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harshrajput07&" alt="harshrajput07" /></p>
