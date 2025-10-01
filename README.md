@@ -55,4 +55,9 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harshrajput07&show_icons=true&locale=en" alt="harshrajput07" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harshrajput07" alt="harshrajput07" /></p>
 
+<<<<<<< HEAD
 [![Holopin badges](https://holopin.me/harshrajput07)](https://holopin.io/@harshrajput07)
+=======
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harshrajput07& exclude_days=Fri" alt="harshrajput07" /></p>
+[![An image of @harshrajput07's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/harshrajput07)](https://holopin.io/@harshrajput07)
+>>>>>>> parent of 1a38f8a (Update README.md)
