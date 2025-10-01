@@ -15,33 +15,36 @@
 ---
 
 ### 👨‍💻 Current Role
-- Working at **Amazon** (WFH)  
-- Learning and building skills in **Data Analytics / Data Science**
+- Working at **Amazon (WFH)**  
+- Focused on building skills in **Data Analytics / Data Science**
 
 ---
 
-### 🌱 Skills & Tools Learned
-- **Excel** – Advanced formulas, pivot tables, data cleaning  
-- **SQL** – Queries, joins, aggregations, basics of database management  
-- **Python (basics)** – Data manipulation, lists, loops  
-- **Git & GitHub** – Version control, workflow automation  
+### 💻 Skills Learned
+<p align="left">
+  <a href="https://www.python.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>
+  <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/></a>
+  <a href="https://excel.microsoft.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Microsoft_Excel_2013_logo.svg" alt="Excel" width="40" height="40"/></a>
+  <a href="https://git-scm.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/></a>
+  <a href="https://github.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/></a>
+</p>
 
 ---
 
 ### 📚 Currently Learning
 - **Python Libraries:** Pandas, NumPy  
 - **Data Visualization:** Matplotlib, Seaborn, Plotly  
-- **Tableau / Power BI** – Dashboard creation  
-- **Machine Learning basics:** Scikit-learn  
-- **Advanced SQL** – Window functions, CTEs, complex queries  
+- **Dashboard Tools:** Tableau / Power BI  
+- **Machine Learning Basics:** Scikit-learn  
+- **Advanced SQL:** Joins, window functions, CTEs  
 
 ---
 
 ### 💬 Ask me about
 - Data Cleaning & Transformation  
 - Exploratory Data Analysis (EDA)  
-- SQL Queries and Database Management  
-- GitHub workflows and version control  
+- SQL Queries & Database Management  
+- GitHub workflows & version control  
 
 ---
 
